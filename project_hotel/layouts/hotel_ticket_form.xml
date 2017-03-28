@@ -14,6 +14,7 @@
         <field name="room_id" span="2" onchange="onchange_hotel"/>
         <field name="bed" span="2" onchange="onchange_hotel"/>
         <field name="price" span="2"/>
+        <field name="price" span="2"/>
         <field name="hotel_ids" span="2"/>
     </group>
     <foot>
